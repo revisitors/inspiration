@@ -13,3 +13,4 @@ starting with a linkdump. want to organize it more? go for it, it is yours.
 * http://www.creativeapplications.net/scripts/digital-decay-reference-theory/
 * https://www.flickr.com/photos/rafolio/sets/72157614348091245/
 * http://userscripts-mirror.org/scripts/show/9653
+* https://github.com/auduno/clmtrackr also with a some mind blowing examples
