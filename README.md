@@ -14,3 +14,5 @@ starting with a linkdump. want to organize it more? go for it, it is yours.
 * https://www.flickr.com/photos/rafolio/sets/72157614348091245/
 * http://userscripts-mirror.org/scripts/show/9653
 * https://github.com/auduno/clmtrackr also with a some mind blowing examples
+* http://011001000110100101100101.tumblr.com/ < I like this guy
+* http://gli.tc/h/wiki/index.php/Main_Page <lots of junk
